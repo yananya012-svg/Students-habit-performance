@@ -33,6 +33,22 @@ Student Habits Performance Dataset
 - Pie Chart
 - Scatter Plot
 - Line Chart
+## 📊 Project Visualizations
+
+### Study Hours Distribution
+![](study_hours_distribution.png)
+
+### Sleep Categories
+![](sleep_categories.png)
+
+### Attendance Distribution
+![](attendance_distribution.png)
+
+### Study Hours vs Attendance
+![](study_hours_vs_attendance.png)
+
+### Study Hours Line Chart
+![](study_hours.png)
 
 ## 👩‍💻 Author
 Ananya Yadav
